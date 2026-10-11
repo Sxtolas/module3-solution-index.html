@@ -1,0 +1,17 @@
+/* Dropdown menu: distinct background */
+.navbar-collapse {
+  background-color: #fff;
+}
+
+.navbar-nav.visible-xs > li > a {
+  text-align: center;
+  border-bottom: 1px solid #000;
+}
+
+/* Tall sections with a distinguishing background */
+.menu-section {
+  background-color: #9a9a9a;
+  height: 700px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
